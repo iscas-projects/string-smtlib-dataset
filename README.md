@@ -1,6 +1,6 @@
 # Dataset artefact
 
-The dataset is uploaded to the release of this repository.
+The dataset is uploaded to this repository as three 7zip archive slices.
 
 The dataset is an archive folder and every folder under it contains a `.jar` file that contains the corresponding bytecode of a Java project (usually downloaded from Maven repository), a smt folder that contains `.smt2` SMT-LIB scripts, and a `simple_statistics.json` file that contains statistics.
 
